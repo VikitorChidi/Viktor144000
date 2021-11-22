@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Viktor144000
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently in search of a job 
 - 📫 How to reach me ... Victorblessed9@gmail.com
 
 <!---
