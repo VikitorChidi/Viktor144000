@@ -1,5 +1,5 @@
-- 👀 I’m interested in Web Development 
-- 📫 How to reach me ... Victorblessed9@gmail.com
+- 👀 Web development enthusiast.
+- 📫 Victorblessed9@gmail.com
 
 <!---
 Viktor144000/Viktor144000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
